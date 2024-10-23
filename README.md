@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smaeeryadav
+- 👋 Hi, I’m @sameeryadav
 - 👀 I’m interested in Cyber Security and Cloud Computing
 - 🌱 I’m currently learning cyber Security
 - 💞️ I’m looking to collaborate on CTF and A Hacker's team
